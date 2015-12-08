@@ -46,4 +46,10 @@ Installation
     
 9. Setup Run/Debug configurations for PHPUnit, Remote Debugging and Gulp
 10. Run the copy-assets and compile Gulp tasks
-11. Setup the scss filewatcher
+11. Setup the SCSS filewatcher
+
+    ```
+    Arguments: --no-cache --update $FileName$:../../public/css/$FileNameWithoutExtension$.css
+    ```
+    
+12. Commit the public directory into git

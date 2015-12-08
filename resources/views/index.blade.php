@@ -17,7 +17,7 @@
                 </div>
                 <ng-view></ng-view>
             </div>
-        </div>x
+        </div>
         
         <script src="{{ URL::asset('js/angular.min.js') }}"></script>
         <script src="{{ URL::asset('js/xeditable.min.js') }}"></script>

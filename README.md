@@ -4,6 +4,13 @@ Installation
 ------------
 1. Fork this repo
 2. Clone the newly created repo
+3. Add the upstream remote to git
+
+    ```{r, engine='bash'}
+    git remote add upstream https://github.com/LVOE/project-template.git
+    ```
+
+
 3. Update ~/.homestead/Homestead.yaml
 4. Run the following in the ~/Homestead directory to provision the server
 

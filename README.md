@@ -4,10 +4,11 @@ Installation
 ------------
 1. Fork this repo
 2. Clone the newly created repo
-3. Add the upstream remote to git
+3. Add the upstream remote to git and disable pushing
 
     ```{r, engine='bash'}
     git remote add upstream https://github.com/LVOE/project-template.git
+    git remote set-url --push upstream no-pushing
     ```
 
 

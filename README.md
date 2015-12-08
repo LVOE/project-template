@@ -49,7 +49,7 @@ Installation
 11. Setup the SCSS filewatcher
 
     ```
-    Arguments: --no-cache --update $FileName$:../../public/css/$FileNameWithoutExtension$.css
+    Arguments: --no-cache --update $FileName$:../../../public/css/$FileNameWithoutExtension$.css
     ```
     
 12. Commit the public directory into git

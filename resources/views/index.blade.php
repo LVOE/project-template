@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Laravel</title>
+        <title>Project Template</title>
 
        
         <link rel="stylesheet" href="{{ URL::asset('css/xeditable.css') }}">
@@ -13,7 +13,7 @@
         <div class="container">
             <div class="content">
                 <div class="row title">
-                    <div class="col-xs-12"><h1>Location Crafter</h1></div>
+                    <div class="col-xs-12"><h1>Project Template</h1></div>
                 </div>
                 <ng-view></ng-view>
             </div>

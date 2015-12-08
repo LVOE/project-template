@@ -3,6 +3,6 @@
  */
 'use strict';
 
-angular.module('app').controller('WorldController', ['$scope', function ($scope) {
-    console.log('works');
+angular.module('app').controller('WelcomeController', ['$scope', function ($scope) {
+    console.log('Welcome!');
 }]);

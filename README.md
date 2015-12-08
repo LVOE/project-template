@@ -12,6 +12,13 @@ Installation
     vagrant up --provision
     ```
 
+5. Add the following to your /etc/hosts file
+
+
+    ```{r, engine='bash'}
+    192.168.10.10 project-name.app
+    ```
+    
 5. SSH into the server, then run the following in the project directory
 
 

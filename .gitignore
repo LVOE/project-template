@@ -7,3 +7,4 @@ Homestead.json
 /.idea
 /public/coverage
 /storage/test.sqlite
+/coverage.xml
